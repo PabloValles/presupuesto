@@ -28,6 +28,7 @@ const Formulario = () => {
             id: shortid.generate()
         }
         console.log(gasto)
+        
 
         // Pasar el gasto al componente principal
 
